@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Notifications</string>
+
+    <string name="channel_1_name">Channel one</string>
+    <string name="channel_2_name">Channel two</string>
+
+    <string name="channel_1_desc">Channel one description</string>
+    <string name="channel_2_desc">Channel one description</string>
+</resources>
